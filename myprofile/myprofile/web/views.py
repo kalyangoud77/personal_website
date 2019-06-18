@@ -2,6 +2,7 @@ from django.conf import settings
 from django.views.generic import TemplateView
 from django.core.mail import send_mail
 from django.contrib import messages
+'''**********'''
 
 from myprofile.web.models import(
     Website,
